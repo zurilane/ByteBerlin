@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ByteBerlin | FAQs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9fafb;
+      padding: 2rem;
+      color: #333;
+    }
+    h1 {
+      color: #1e293b;
+    }
+    details {
+      margin-bottom: 1rem;
+    }
+    summary {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Frequently Asked Questions</h1>
+
+  <details>
+    <summary>What does ByteBerlin do?</summary>
+    <p>We create websites, games, animations, and more. We code with Python, Java, Lua, HTML, and CSS.</p>
+  </details>
+
+  <details>
+    <summary>Where are you based?</summary>
+    <p>Laurel, MT — but we work with people around the world.</p>
+  </details>
+
+  <details>
+    <summary>Can I join the team?</summary>
+    <p>Yes! Head over to our <a href="careers.html">Careers</a> page to see current opportunities.</p>
+  </details>
+
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
